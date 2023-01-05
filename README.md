@@ -8,7 +8,7 @@ I will use these to showcase the projects I made during for the courses but also
 
 | Course | Repository |
 | :--- | :--- |
-| Programming | For Python "OefeningenPython", for C++ "OefeningenC++" and for the exam "Shaken" |
+| Programming | For Python "OefeningenPython", for C++ "OefeningenCPP" and for the exam "Shaken" |
 | Data Structures | "GAS-ADT", data structures and their implementation in Python |
 | Computer Systems and Architecture | "CSA", MIPS assembly exercise and a Logisim project |
 | Computer Graphics | "CG", computer graphics exercises and their rendering |
