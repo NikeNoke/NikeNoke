@@ -12,7 +12,7 @@ I will use these to showcase the projects I made during the course of my studies
 | Data Structures | "GAS-ADT", data structures and their implementation in Python. |
 | Computer Systems and Architecture | "CSA", MIPS assembly exercise and a Logisim project + HTML reports. |
 | Computer Graphics | "CG", computer graphics exercises and their rendering. |
-| Project SE | "SE", Software engineering project. |
+| Project SE | "[MetroSimulation](https://github.com/NikeNoke/MetroSimulation)", Software engineering project. |
 | Automata | "TA", exercises on Automata. |
 | Calculus | "Calculus", exercises on Calculus formated with LaTex (generally to learn LaTeX). |
 
