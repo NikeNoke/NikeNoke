@@ -170,6 +170,7 @@ The languages, frameworks and tools I work with. Click any icon to visit its web
 <a href="https://cmake.org/cmake/help/latest/manual/ctest.1.html"><img src="https://img.shields.io/badge/CTest-064F8C?style=for-the-badge&logo=cmake&logoColor=white&labelColor=1a1b27" alt="CTest" title="CTest" /></a>
 <a href="https://github.com/catchorg/Catch2"><img src="https://img.shields.io/badge/Catch2-bb9af7?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1b27" alt="Catch2" title="Catch2" /></a>
 <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=1a1b27" alt="LaTeX badge" title="LaTeX" /></a>
+<a href="https://www.doxygen.nl/"><img src= "https://img.shields.io/badge/Doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white&labelColor=1a1b27" alt="Doxygen" title="Doxygen" /></a>
 
 </div>
 
